@@ -7,7 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": "git+https://github.com/dein-dev/dappserver.github.io.git",
-  "author": "Einstein Punk <dein-dev@github.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/dein-dev/dappserver.github.io/issues"
