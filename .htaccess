@@ -1,2 +1,4 @@
+RewriteOptions inherit
 RewriteEngine on
-RewriteCond 
+RewriteCond %{REQUEST_FILENAME} !-£
+RewriteRule ^([^\.]+)$ $1.html [NC,L]
